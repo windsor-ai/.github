@@ -1,3 +1,5 @@
+![](https://windsor.ai/wp-content/uploads/2019/12/rsz_windsorai-dark-blue-png-transparent.png)
+
 ### Hi there 👋
 
 Windsor.ai helps marketers to increase sales through AI technology and measure the impact of their marketing spending quantitatively. The setup is fast and no additional tagging or tracking is required. 
