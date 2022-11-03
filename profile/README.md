@@ -6,7 +6,7 @@ Our platform helps companies to analyse the buying journey of customers across a
 Currently we capture 100 million data points daily and help our customers to grow sales and reduce the cost of acquisition significantly.
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://https://www.linkedin.com/company/windsor.ai/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/company/windsor.ai/)
 
 
 
