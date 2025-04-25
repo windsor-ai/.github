@@ -1,9 +1,20 @@
 ![](https://windsor.ai/wp-content/uploads/2019/12/rsz_windsorai-dark-blue-png-transparent.png)
 
-Windsor.ai helps marketers to increase sales through AI technology and measure the impact of their marketing spending quantitatively. The setup is fast and no additional tagging or tracking is required. 
+Welcome to the official GitHub repository of Windsor.ai — the platform that empowers marketers and data teams to connect, unify, and analyze all their marketing data in one place.
 
-Our platform helps companies to analyse the buying journey of customers across all touch-points and uses machine learning models to adjust the media-plan to increase ROI.
-Currently we capture 100 million data points daily and help our customers to grow sales and reduce the cost of acquisition significantly.
+Windsor.ai provides powerful ETL pipelines, data connectors, and analytics integrations designed to streamline marketing performance reporting. With support for over 70+ data sources—including Google Ads, Facebook, HubSpot, Shopify, and more—Windsor.ai helps businesses make data-driven decisions faster and smarter.
 
+Key Features:
+  - 🌐 Seamless integration with major ad platforms, CRMs, and analytics tools
+  - ⚡ Fast, scalable ETL pipelines with real-time syncing
+  - 🧩 Plug-and-play connectors for BI tools like Power BI, Tableau, and Looker
+  - 📊 Unified marketing data models for easy analysis
+  - 🔐 Enterprise-grade security and compliance
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/company/windsor.ai/) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/windsor_ai)
+Use Cases:
+  - Build custom marketing dashboards
+  - Perform cross-channel attribution analysis
+  - Automate data syncing to cloud data warehouses (BigQuery, Snowflake, Redshift)
+  - Optimize ad spend and improve ROI visibility
+
+Whether you're a data engineer, analyst, or marketer, Windsor.ai helps you bring all your performance data together—effortlessly.
