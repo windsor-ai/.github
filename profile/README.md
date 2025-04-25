@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository of Windsor.ai — the platform that empowers marketers and data teams to connect, unify, and analyze all their marketing data in one place.
 
-Windsor.ai provides powerful ETL pipelines, data connectors, and analytics integrations designed to streamline marketing performance reporting. With support for over 70+ data sources—including Google Ads, Facebook, HubSpot, Shopify, and more—Windsor.ai helps businesses make data-driven decisions faster and smarter.
+Windsor.ai provides powerful ETL pipelines, data connectors, and analytics integrations designed to streamline marketing performance reporting. With support for over 320+ data sources—including Google Ads, Facebook, HubSpot, Shopify, and more—Windsor.ai helps businesses make data-driven decisions faster and smarter.
 
 Key Features:
   - 🌐 Seamless integration with major ad platforms, CRMs, and analytics tools
