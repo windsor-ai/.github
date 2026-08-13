@@ -32,10 +32,11 @@ Or call the [Connectors API](https://windsor.ai/api-documentation) directly. Get
 - [Windsor MCP](https://mcp.windsor.ai/docs) — one hosted MCP server connecting Claude, ChatGPT, Cursor and any MCP client to 350+ sources, with write actions (pause campaigns, adjust budgets) on supported ad platforms.
 - [Connectors API](https://windsor.ai/api-documentation) — unified REST API over every source; OAuth or API key.
 - [dbt packages](https://github.com/windsor-ai/dbt-facebook-big_query) — production-ready models turning synced data into analytics-ready warehouse tables.
-- [Destinations](https://windsor.ai/data-integration/) — BigQuery, Snowflake, Redshift, Looker Studio, Power BI, Tableau, Sheets and more.
+- [Destinations](https://windsor.ai/destinations/) — BigQuery, Snowflake, Redshift, Looker Studio, Power BI, Tableau, Sheets and more.
 
 ## Resources
 
-- [Connector directory](https://windsor.ai/data-integration/) — browse all 350+ sources and destinations
+- [Connector directory](https://windsor.ai/data-integration/) — browse all 350+ data sources
+- [Destinations directory](https://windsor.ai/destinations/) — everywhere your data can land: warehouses, BI tools, sheets, AI assistants
 - [Developer docs](https://windsor.ai/api-documentation) — API reference, auth, rate limits, write actions
 - [llms.txt](https://mcp.windsor.ai/llms.txt) — machine-readable index of Windsor.ai's capabilities for AI agents ([full version](https://mcp.windsor.ai/llms-full.txt) · [live connector list](https://mcp.windsor.ai/datasources))
