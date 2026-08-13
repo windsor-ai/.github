@@ -20,6 +20,23 @@ Connect AI assistants and your own code to 350+ business data sources — ads, a
 pip install pywindsorai   # Python — or install.packages("windsoraiR") on CRAN
 ```
 
+```python
+from pywindsorai.client import Client
+
+client = Client(api_key)  # API key from onboard.windsor.ai
+rows = client.connectors(date_preset="last_7d", fields=["date", "source", "campaign", "clicks", "spend"])
+```
+
+Every connected source comes back as plain rows with the fields you asked for:
+
+```python
+[
+    {"date": "2026-08-10", "source": "google_ads", "campaign": "brand_search",   "clicks": 152, "spend": 84.31},
+    {"date": "2026-08-10", "source": "facebook",   "campaign": "retargeting_eu", "clicks": 98,  "spend": 45.02},
+    {"date": "2026-08-10", "source": "tiktok",     "campaign": "summer_promo",   "clicks": 61,  "spend": 22.40},
+]
+```
+
 Or call the [Connectors API](https://windsor.ai/api-documentation) over plain HTTP from any language. You'll need an API key, which you can get at [onboard.windsor.ai](https://onboard.windsor.ai).
 
 ## Primitives
