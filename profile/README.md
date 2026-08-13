@@ -3,7 +3,7 @@
   <img alt="Windsor.ai" src="https://windsor.ai/wp-content/uploads/2019/12/rsz_windsorai-dark-blue-png-transparent.png" width="200">
 </picture>
 
-Give any AI live access to 350+ business data sources — ads, analytics, CRM, e-commerce, finance — through one MCP server and API. No code, no exports.
+Connect AI assistants and your own code to 350+ business data sources — ads, analytics, CRM, e-commerce, finance — through one MCP server and API.
 
 ## Quick Start
 
@@ -13,7 +13,7 @@ Give any AI live access to 350+ business data sources — ads, analytics, CRM, e
 - **ChatGPT** — available as a ChatGPT app · [setup guide](https://windsor.ai/documentation/windsor-mcp/how-to-integrate-data-into-chatgpt/)
 - **Claude Code** — [`claude-windsor-ai-plugin`](https://github.com/windsor-ai/claude-windsor-ai-plugin): `/plugin install windsor-ai@claude-plugin-directory`
 - **Cursor** — [`windsor-ai-cursor-plugin`](https://github.com/windsor-ai/windsor-ai-cursor-plugin) · [setup guide](https://windsor.ai/documentation/windsor-mcp/how-to-integrate-data-into-cursor/)
-- **Any MCP client** — [guide](https://windsor.ai/documentation/windsor-mcp/how-to-connect-windsor-mcp-to-any-ai-client/), or point it at:
+- **Any MCP client** — [guide](https://windsor.ai/documentation/windsor-mcp/how-to-connect-windsor-mcp-to-any-ai-client/), or add this to your client's MCP settings:
 
 ```json
 { "mcpServers": { "windsor": { "url": "https://mcp.windsor.ai/" } } }
@@ -25,13 +25,13 @@ Give any AI live access to 350+ business data sources — ads, analytics, CRM, e
 pip install pywindsorai   # Python — or install.packages("windsoraiR") on CRAN
 ```
 
-Or call the [Connectors API](https://windsor.ai/api-documentation) directly. Get a free API key at [onboard.windsor.ai](https://onboard.windsor.ai) — free forever plan, no credit card.
+Or call the [Connectors API](https://windsor.ai/api-documentation) over plain HTTP from any language. You'll need an API key, which you can get at [onboard.windsor.ai](https://onboard.windsor.ai).
 
 ## Primitives
 
 - [Windsor MCP](https://mcp.windsor.ai/docs) — one hosted MCP server connecting Claude, ChatGPT, Cursor and any MCP client to 350+ sources, with write actions (pause campaigns, adjust budgets) on supported ad platforms.
 - [Connectors API](https://windsor.ai/api-documentation) — unified REST API over every source; OAuth or API key.
-- [dbt packages](https://github.com/windsor-ai/dbt-facebook-big_query) — production-ready models turning synced data into analytics-ready warehouse tables.
+- [dbt packages](https://github.com/windsor-ai/dbt-facebook-big_query) — dbt models that turn synced data into analytics-ready warehouse tables.
 - [Destinations](https://windsor.ai/destinations/) — BigQuery, Snowflake, Redshift, Looker Studio, Power BI, Tableau, Sheets and more.
 
 ## Resources
