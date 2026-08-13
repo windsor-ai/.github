@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://windsor.ai/wp-content/uploads/2019/12/rsz_windsorai-white-png-transparent.png">
-  <img alt="Windsor.ai" src="https://windsor.ai/wp-content/uploads/2019/12/rsz_windsorai-dark-blue-png-transparent.png" width="200">
-</picture>
-
 Connect AI assistants and your own code to 350+ business data sources — ads, analytics, CRM, e-commerce, finance — through one MCP server and API.
 
 ## Quick Start
